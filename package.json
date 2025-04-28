@@ -33,7 +33,7 @@
     "lodash": "~>=4.17.21",
     "map-canvas": ">=0.1.5",
     "marked": "^4.0.12",
-    "marked-terminal": "^5.1.1",
+    "marked-terminal": "^5.2.0",
     "memory-streams": "^0.1.0",
     "memorystream": "^0.3.1",
     "picture-tuber": "^1.0.1",
